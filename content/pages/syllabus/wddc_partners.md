@@ -10,29 +10,205 @@ uid: d0fcb7d6-5a3d-3f64-9a96-e052a3181682
 
 WDDC partners around the world. (Image by MIT OpenCourseWare.)  
 
-| PARTNERS |
-| --- |
-| {{< td-colspan 2 >}}**Africa**{{< /td-colspan >}} ||
-| APDK  {{< br >}}Nairobi and Mombassa, Kenya  {{< br >}}Manufacturers of Wheelchairs and Tricycles |
-| Disabled Aids and General Engineering (DAGE)  {{< br >}}Dar es Salaam, Tanzania  {{< br >}}Manufacturer of Tricycles |
-| Disacare  {{< br >}}Lusaka, Zambia  {{< br >}}Manufacturer of Wheelchairs and Tricycles |
-| Katalema Cheshire Home  {{< br >}}Kampala, Uganda  {{< br >}}Manufacturer of Wheelchairs |
-| [Kilimanjaro Christian Medical Center](http://www.kcmc.ac.tz/) Wheelchair Workshop  {{< br >}}Moshi, Tanzania  {{< br >}}Manufacturer of Wheelchairs |
-| [Mobility Care](http://www.wheelchairs.co.tz/)  {{< br >}}Arusha, Tanzania  {{< br >}}Manufacturer of Wheelchairs |
-| O Dolf Ltd.  {{< br >}}Awka, Nigeria  {{< br >}}Manufacturer of Wheelchairs |
-| [Shonaquip CC](https://shonaquip.co.za/)  {{< br >}}Cape Town, South Africa  {{< br >}}Manufacturer of Custom Wheelchairs |
-| UWZ (Zanzibar Association of the Disabled) Wheelchair Workshop  {{< br >}}Stone Town, Zanzibar, Tanzania  {{< br >}}Manufacturer of Wheelchairs |
-| {{< td-colspan 2 >}}**Central America**{{< /td-colspan >}} ||
-| [Transitions (Asociacion Transiciones)](http://www.transitionsfoundation.org/)  {{< br >}}Antigua, Guatemala  {{< br >}}Wheelchair workshop and disability organization |
-| {{< td-colspan 2 >}}**Southeast Asia**{{< /td-colspan >}} ||
-| [Handicap International, Philippines Office](http://www.handicapinternational.ph/)  {{< br >}}Manilla, Philippines  {{< br >}}Disability-focused NGO |
-| Freedom Technology  {{< br >}}Cagayan de Oro, Philippines  {{< br >}}Manufacturer of Wheelchairs |
-| [Kien Tuong Private Enterprise](http://kientuong.net/en/home/)  {{< br >}}Ho Chi Minh City, Vietnam  {{< br >}}Manufacturer of Wheelchairs and Tricycles |
-| [WAFCAT and Thaiwheel](https://wafcat.or.th/site/index)  {{< br >}}Bangkok, Thailand  {{< br >}}Manufacturer of Wheelchairs and Tricycles |
-| Tahanang Walang Hagdanan, Inc (TWH)  {{< br >}}Manilla, Philppines  {{< br >}}Manufacturer of Wheelchairs and Tricycles |
-| {{< td-colspan 2 >}}**Developed country partners**{{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} Amos Winter  {{< br >}}[MIT Mobility Lab](https://mobility.mit.edu/)  {{< br >}}Massachusetts Institute of Technology  {{< br >}}Cambridge, MA, USA  {{< br >}}University {{< br >}}{{< br >}}  |
-| [Motivation](http://www.motivation.org.uk/)  {{< br >}}Bristol, UK  {{< br >}}Wheelchair design NGO |
-| Move with Freedom  {{< br >}}Maine, USA  {{< br >}}Tricycle design NGO |
-| [Northeast Passage](http://www.nepassage.org/)  {{< br >}}Durham, NH, USA  {{< br >}}Therapeutic recreation services NGO |
-| [Whirlwind Wheelchair International](https://whirlwindwheelchair.org)  {{< br >}}San Francisco, California, USA  {{< br >}}Wheelchair Design NGO
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PARTNERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Africa**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+APDK  
+Nairobi and Mombassa, Kenya  
+Manufacturers of Wheelchairs and Tricycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Disabled Aids and General Engineering (DAGE)  
+Dar es Salaam, Tanzania  
+Manufacturer of Tricycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Disacare  
+Lusaka, Zambia  
+Manufacturer of Wheelchairs and Tricycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Katalema Cheshire Home  
+Kampala, Uganda  
+Manufacturer of Wheelchairs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Kilimanjaro Christian Medical Center](http://www.kcmc.ac.tz/) Wheelchair Workshop  
+Moshi, Tanzania  
+Manufacturer of Wheelchairs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Mobility Care](http://www.wheelchairs.co.tz/)  
+Arusha, Tanzania  
+Manufacturer of Wheelchairs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+O Dolf Ltd.  
+Awka, Nigeria  
+Manufacturer of Wheelchairs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Shonaquip CC](https://shonaquip.co.za/)  
+Cape Town, South Africa  
+Manufacturer of Custom Wheelchairs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+UWZ (Zanzibar Association of the Disabled) Wheelchair Workshop  
+Stone Town, Zanzibar, Tanzania  
+Manufacturer of Wheelchairs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Central America**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Transitions (Asociacion Transiciones)](http://www.transitionsfoundation.org/)  
+Antigua, Guatemala  
+Wheelchair workshop and disability organization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Southeast Asia**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Handicap International, Philippines Office](http://www.handicapinternational.ph/)  
+Manilla, Philippines  
+Disability-focused NGO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Freedom Technology  
+Cagayan de Oro, Philippines  
+Manufacturer of Wheelchairs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Kien Tuong Private Enterprise](http://kientuong.net/en/home/)  
+Ho Chi Minh City, Vietnam  
+Manufacturer of Wheelchairs and Tricycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[WAFCAT and Thaiwheel](https://wafcat.or.th/site/index)  
+Bangkok, Thailand  
+Manufacturer of Wheelchairs and Tricycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tahanang Walang Hagdanan, Inc (TWH)  
+Manilla, Philppines  
+Manufacturer of Wheelchairs and Tricycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Developed country partners**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Amos Winter  
+[MIT Mobility Lab](https://mobility.mit.edu/)  
+Massachusetts Institute of Technology  
+Cambridge, MA, USA  
+University
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Motivation](http://www.motivation.org.uk/)  
+Bristol, UK  
+Wheelchair design NGO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Move with Freedom  
+Maine, USA  
+Tricycle design NGO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Northeast Passage](http://www.nepassage.org/)  
+Durham, NH, USA  
+Therapeutic recreation services NGO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Whirlwind Wheelchair International](https://whirlwindwheelchair.org)  
+San Francisco, California, USA  
+Wheelchair Design NGO
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

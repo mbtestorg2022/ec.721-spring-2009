@@ -61,14 +61,75 @@ The course will be graded from A-F. Lab instructors will assign grades for all s
 
 The grading breakdown is:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation/homework | 10% |
-| Strategy presentation | 15% |
-| Concept presentation | 15% |
-| Most critical module (MCM) presentation | 15% |
-| Final presentation and prototype | 25% |
-| Team Web site | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation/homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Strategy presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Concept presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Most critical module (MCM) presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final presentation and prototype
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Web site
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Each teams' progress will be judged largely on presentations given at each project milestone.
 
@@ -133,32 +194,385 @@ WDDC has funding to support students for Summer 2009 to implement technology gen
 Calendar
 --------
 
-| LEC # | TOPICS | PROJECT MILESTONES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction to wheelchairs in developing countries {{< br >}}{{< br >}} Review potential projects {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Wheelchair/Trike relay race around campus | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} 2008 summer fellow presentations on last year's projects {{< br >}}{{< br >}} Guest speaker: Alison Hynd, MIT Public Service Center, on summer fellowships {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Designing wheelchairs for the developing world {{< br >}}{{< br >}} Deterministic design process {{< br >}}{{< br >}}  | Choose project teams |
-| 5 | Guest Speaker: Joost Bonsen on developmental entrepreneurship |  {{< br >}}{{< br >}} Hold first lab meeting {{< br >}}{{< br >}} Contact team mentors and community partners {{< br >}}{{< br >}}  |
-| 6 | Guest speakers: Abdullah Munish and Fatuma Acan | Define functional requirements |
-| 7 | Strategy presentations | Strategy presentations due |
-| 8 | Guest speaker: Amy Smith and Amy Banzaert - Appropriate technology, idea to product, successfully implementing technologies | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Discussion of appropriate and inappropriate technologies {{< br >}}{{< br >}} Wheelchair role-play {{< br >}}{{< br >}} "Power of Persons with Disabilities, Advocacy and the Challenges" Guest talk by Maryan Amaral, Aero Inc. {{< br >}}{{< br >}} Results from Tanzanian Wheelchair Foundation Study {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Wheelchair Biomechanics/Ergonomics and design for human use | &nbsp; |
-| 11 | Power output test up ramp in basement | &nbsp; |
-| 12 | Manufacturing processes and strategies | Concept presentations |
-| 13 | Product design and critique of existing wheelchair designs | &nbsp; |
-| 14 | Material science/mechanics of materials/welding with Mike Tarkanian | &nbsp; |
-| 15 | Material science/mechanics of materials/welding with Mike Tarkanian | &nbsp; |
-| 16 | Watch "Murderball" in class | Accelerate project work outside of class |
-| 17 | Finish "Murderball" and watch parts of "Emanuel's Gift" | &nbsp; |
-| 18 | Guest speaker: Ralf Hotchkiss, on his career and designing wheelchairs | Most critical module (MCM) presentations |
-| 19 | Material properties and performance | &nbsp; |
-| 20 |  {{< br >}}{{< br >}} Guest Speaker: Prof. David Gordon Wilson on human-powered machines {{< br >}}{{< br >}} Review wheelchair designs and how they contribute to body image {{< br >}}{{< br >}}  | &nbsp; |
-| 21 | Guest Speaker: Rory McCarthy on handcycle design and racing | &nbsp; |
-| 22 | Project work | &nbsp; |
-| 23 | Project work (cont.) | &nbsp; |
-| 24 | Project work (cont.) | &nbsp; |
-| 25 | Project work (cont.) | Poster and presentation for MIT museum |
-| 26 | Project work (cont.) | &nbsp; |
-| 27 | Final presentation session | Final presentation of project with a working prototype
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PROJECT MILESTONES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to wheelchairs in developing countries
+
+Review potential projects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Wheelchair/Trike relay race around campus
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2008 summer fellow presentations on last year's projects
+
+Guest speaker: Alison Hynd, MIT Public Service Center, on summer fellowships
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Designing wheelchairs for the developing world
+
+Deterministic design process
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Choose project teams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker: Joost Bonsen on developmental entrepreneurship
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hold first lab meeting
+
+Contact team mentors and community partners
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Guest speakers: Abdullah Munish and Fatuma Acan
+{{< tdclose >}}
+{{< tdopen >}}
+Define functional requirements
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Strategy presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Strategy presentations due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Guest speaker: Amy Smith and Amy Banzaert - Appropriate technology, idea to product, successfully implementing technologies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of appropriate and inappropriate technologies
+
+Wheelchair role-play
+
+"Power of Persons with Disabilities, Advocacy and the Challenges" Guest talk by Maryan Amaral, Aero Inc.
+
+Results from Tanzanian Wheelchair Foundation Study
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Wheelchair Biomechanics/Ergonomics and design for human use
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Power output test up ramp in basement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing processes and strategies
+{{< tdclose >}}
+{{< tdopen >}}
+Concept presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Product design and critique of existing wheelchair designs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Material science/mechanics of materials/welding with Mike Tarkanian
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Material science/mechanics of materials/welding with Mike Tarkanian
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Watch "Murderball" in class
+{{< tdclose >}}
+{{< tdopen >}}
+Accelerate project work outside of class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Finish "Murderball" and watch parts of "Emanuel's Gift"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Guest speaker: Ralf Hotchkiss, on his career and designing wheelchairs
+{{< tdclose >}}
+{{< tdopen >}}
+Most critical module (MCM) presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Material properties and performance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest Speaker: Prof. David Gordon Wilson on human-powered machines
+
+Review wheelchair designs and how they contribute to body image
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker: Rory McCarthy on handcycle design and racing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Project work (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Project work (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project work (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Poster and presentation for MIT museum
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Project work (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation session
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation of project with a working prototype
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
