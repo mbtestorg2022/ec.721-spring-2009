@@ -138,7 +138,7 @@ Strategy presentations
 {{< tdopen >}}
 
 
-_Independence through Mobility: A Guide to the Manufacture of the ATI-Hotchkiss Wheelchair (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](http://web.mit.edu/sp.784/www/DOCUMENTS/Independence%20through%20Mobility%20-%20Entire%20Document.pdf))_.
+_Independence through Mobility: A Guide to the Manufacture of the ATI-Hotchkiss Wheelchair ([PDF - 1.6MB](http://web.mit.edu/sp.784/www/DOCUMENTS/Independence%20through%20Mobility%20-%20Entire%20Document.pdf))_.
 
 Note: You are not required to read the whole document, but skim to see what info may be useful for your project.
 

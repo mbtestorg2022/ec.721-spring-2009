@@ -80,7 +80,7 @@ This project continued the work of the 2008 handcycle attachment team, making se
 {{< tdopen >}}
 
 
-Power-assisted Tricycle (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.uwyo.edu/electrical/faculty-staff/steven-barrett/assist/uw_proj_beck.pdf))
+Power-assisted Tricycle ([PDF](http://www.uwyo.edu/electrical/faculty-staff/steven-barrett/assist/uw_proj_beck.pdf))
 
 
 {{< tdclose >}}
