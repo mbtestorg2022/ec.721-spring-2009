@@ -7,6 +7,7 @@ image_metadata:
   caption: A imported trike of unknown origin.
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of a trike in use.
+parent_uid: 6c09e2cd-dcea-37ca-c980-37fe90a597ce
 resourcetype: Image
 title: Imported5.jpg
 uid: 5c9cb087-aeeb-4357-afb9-a9609c122fa6

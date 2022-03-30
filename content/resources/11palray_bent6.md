@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: 11Palray_bent6.jpg
 uid: 0b244631-da80-b0bc-8764-7d6f8c25c48b

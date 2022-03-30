@@ -7,6 +7,7 @@ image_metadata:
   caption: A trike from Palray (Dar es Salaam, Tanzania).
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of trike in use.
+parent_uid: 9bddd81f-6dc0-133c-cef0-fd83036b889a
 resourcetype: Image
 title: 6-Palray2.jpg
 uid: f0366ba3-e1a3-27b8-de25-54e1215e8dd6

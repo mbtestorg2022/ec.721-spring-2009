@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of a person driving their trike, with a pair of crutches in the
     rear cargo area.
+parent_uid: e9e8caae-b02b-0050-de07-b0a5dda24515
 resourcetype: Image
 title: DAGE_old5.jpg
 uid: 30ab7fec-be0d-60bd-e359-2d935707a376

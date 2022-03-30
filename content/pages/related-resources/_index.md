@@ -209,7 +209,7 @@ DESCRIPTIONS
 
 D-Lab is a program that fosters the development of appropriate technologies and sustainable solutions within the framework of international development. D-Lab’s mission is to improve the quality of life of low-income households through the creation and implementation of low cost technologies. D-Lab’s portfolio of technologies also serves as an educational vehicle that allows students to gain an optimistic and practical understanding of their roles in alleviating poverty.
 
-There are currently nine different academic offerings that make up the suite of D-Lab classes, falling into the broad categories of Development, Design and Dissemination. Several of these classes, including [EC.701 D-Lab I: Development](/courses/ec-701j-d-lab-i-development-fall-2009/), [EC.720J D-Lab II: Design](/courses/ec-720j-d-lab-ii-design-spring-2010/), and [EC.715 D-Lab: Disseminating Innovations for the Common Good](/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/), have been published in [MIT OpenCourseWare](/).
+There are currently nine different academic offerings that make up the suite of D-Lab classes, falling into the broad categories of Development, Design and Dissemination. Several of these classes, including [EC.701 D-Lab I: Development](/courses/ec-701j-d-lab-i-development-fall-2009), [EC.720J D-Lab II: Design](/courses/ec-720j-d-lab-ii-design-spring-2010), and [EC.715 D-Lab: Disseminating Innovations for the Common Good](/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007), have been published in [MIT OpenCourseWare](/).
 
 
 {{< tdclose >}}
@@ -227,7 +227,7 @@ Mobility Lab @ MIT website, including news from students, information about comm
 {{< tropen >}}
 {{< tdopen >}}
 2.007:  
-\- [2.007 on MIT OpenCourseWare](/courses/2-007-design-and-manufacturing-i-spring-2009/)  
+\- [2.007 on MIT OpenCourseWare](/courses/2-007-design-and-manufacturing-i-spring-2009)  
 \- [Archival documentary videos](https://video.odl.mit.edu/collections/a26ca9bd842a4c04a7f1526dca624536)
 {{< tdclose >}}
 {{< tdopen >}}

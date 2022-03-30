@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: 9Palray5.jpg
 uid: 8da5a607-0a28-066f-3801-cb7d56d6fbba

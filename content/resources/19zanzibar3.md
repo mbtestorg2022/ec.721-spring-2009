@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: 19Zanzibar3.jpg
 uid: 9dde68b4-aa12-fa1b-1e59-d1d7823e9936

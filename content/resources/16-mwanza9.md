@@ -7,6 +7,7 @@ image_metadata:
   caption: A trike in Mwanza, Tanzania (shop unknown).
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of trike in use.
+parent_uid: 9bddd81f-6dc0-133c-cef0-fd83036b889a
 resourcetype: Image
 title: 16-Mwanza9.jpg
 uid: 0fd5faef-18c7-d83b-0394-89e9e0eef36f

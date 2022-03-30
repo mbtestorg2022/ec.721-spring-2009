@@ -7,6 +7,7 @@ image_metadata:
   caption: Trike made by the UWZ Wheelchair Workshop (Stone Town, Zanzibar, Tanzania).
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Side view of trike, rear wheel assembly.
+parent_uid: 9bddd81f-6dc0-133c-cef0-fd83036b889a
 resourcetype: Image
 title: 19-Zanzibar3.jpg
 uid: 5f3abb88-79cc-8a64-5835-1e19f6bf1549

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: 18Zanzibar2.jpg
 uid: b801ca5c-d6f4-d3d3-1050-6755605d57c3

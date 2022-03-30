@@ -7,6 +7,7 @@ image_metadata:
   caption: A trike imported from Canada (shop unknown).
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of front end.
+parent_uid: 6c09e2cd-dcea-37ca-c980-37fe90a597ce
 resourcetype: Image
 title: Canada5.jpg
 uid: 945fa65b-cac3-09c3-b4c6-a51a033b36b1

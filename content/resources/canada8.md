@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: Canada8.jpg
 uid: b5a37e91-e618-69d9-f8bd-41e4446a77cd

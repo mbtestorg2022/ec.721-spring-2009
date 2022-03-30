@@ -7,6 +7,7 @@ image_metadata:
   caption: A trike imported from Canada (shop unknown).
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of trike with mostly wooden frame and small wide tires.
+parent_uid: 6c09e2cd-dcea-37ca-c980-37fe90a597ce
 resourcetype: Image
 title: Canada2.jpg
 uid: 1900b7a5-70b0-c58d-2d35-7b89e91eb3eb

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: DAGE6.jpg
 uid: b651247c-2c8b-06cd-86b2-46f71a61d8cd

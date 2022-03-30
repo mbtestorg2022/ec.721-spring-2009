@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: 14Mwanza5.jpg
 uid: 52808178-dad0-e12f-62f7-8aa2ad19a5bf

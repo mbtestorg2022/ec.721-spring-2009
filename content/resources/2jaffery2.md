@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: 2Jaffery2.jpg
 uid: 1823d8a6-7bfc-f45d-b463-e8bd3acea700

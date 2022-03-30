@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: 12Palray_frames.jpg
 uid: c7b5efac-2328-f77b-c61e-b404abe9bf8e

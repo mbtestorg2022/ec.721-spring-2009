@@ -7,6 +7,7 @@ image_metadata:
   caption: A trike built by Disacare (Lusaka, Zambia).
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Front angle view photo of trike.
+parent_uid: d1f4ad80-205e-6dae-99e7-7d8db5275775
 resourcetype: Image
 title: disacare2.jpg
 uid: dcd4e04a-cddd-ee2b-e3a7-21b8971fd6c1

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: Imported8.jpg
 uid: f1f184ac-d5e2-08b1-471b-3c4b10fe76ef

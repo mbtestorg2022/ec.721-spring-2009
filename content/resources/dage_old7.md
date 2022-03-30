@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1a64799d-8c43-b3cf-02d8-abe22053510c
 resourcetype: Image
 title: DAGE_old7.jpg
 uid: cd6501c6-153d-6247-44b0-aa412e94d6e5

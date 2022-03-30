@@ -7,6 +7,7 @@ image_metadata:
   caption: Trike frames at Palray ready for assembly (Dar es Salaam, Tanzania).
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of a stack of trike frames.
+parent_uid: 9bddd81f-6dc0-133c-cef0-fd83036b889a
 resourcetype: Image
 title: 12-Palray_frames.jpg
 uid: 60ed02ae-6611-19e8-39fc-5daea089972a

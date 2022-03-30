@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 82be7861-5c25-f2af-3bac-633b530a9fa3
 resourcetype: Image
 title: lec01_slide19.jpg
 uid: 5504c29d-5e74-99e2-2118-cc9d4cce7ac3

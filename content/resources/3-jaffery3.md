@@ -7,6 +7,7 @@ image_metadata:
   caption: Trikes from Jaffery Industries (Dar es Salaam, Tanzania).
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of trikes.
+parent_uid: 9bddd81f-6dc0-133c-cef0-fd83036b889a
 resourcetype: Image
 title: 3-Jaffery3.jpg
 uid: b93aac0f-729b-ab08-3125-91e13baedc50

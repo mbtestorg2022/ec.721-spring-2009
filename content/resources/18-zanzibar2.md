@@ -7,6 +7,7 @@ image_metadata:
   caption: Trike made by the UWZ Wheelchair Workshop (Stone Town, Zanzibar, Tanzania).
   credit: 'Credit: Photo courtesy of Amos G. Winter.'
   image-alt: Photo of a brake lever.
+parent_uid: 9bddd81f-6dc0-133c-cef0-fd83036b889a
 resourcetype: Image
 title: 18-Zanzibar2.jpg
 uid: 7ef42d86-979a-8d34-93d9-6b85a1d4909e
